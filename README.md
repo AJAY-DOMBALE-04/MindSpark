@@ -10,11 +10,11 @@ An interactive and feature-rich quiz application built using the MERN stack (Mon
  -Advanced Styling: Enhanced UI with modern and responsive CSS design.
  -Dynamic Backend: Fully functional API with CRUD operations for managing quizzes.
 
-![Screenshot (277)](https://github.com/user-attachments/assets/f3577992-e4d1-436b-a9f2-16fdc19cdd74)
-![Screenshot (274)](https://github.com/user-attachments/assets/91cb959d-8c4a-4de3-ace3-18ca0bee8853)
-![Screenshot (276)](https://github.com/user-attachments/assets/60d27533-f928-4989-9043-e94cc8311e14)
-![Screenshot (275)](https://github.com/user-attachments/assets/7839e350-a599-41dd-94c6-7f0dc23acd1a)
 ![Capture](https://github.com/user-attachments/assets/3e072827-593a-4883-af21-2611375b7530)
+![Screenshot (275)](https://github.com/user-attachments/assets/7839e350-a599-41dd-94c6-7f0dc23acd1a)
+![Screenshot (276)](https://github.com/user-attachments/assets/60d27533-f928-4989-9043-e94cc8311e14)
+![Screenshot (274)](https://github.com/user-attachments/assets/91cb959d-8c4a-4de3-ace3-18ca0bee8853)
+![Screenshot (277)](https://github.com/user-attachments/assets/f3577992-e4d1-436b-a9f2-16fdc19cdd74)
 
  # Technologies Used
   # Frontend:
