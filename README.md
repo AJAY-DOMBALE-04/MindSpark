@@ -1,1 +1,1 @@
-# quizapp
+# MindSpark
