@@ -1,0 +1,150 @@
+/* App.css */
+
+.quiz-app {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 900px;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 5em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.timer {
+  font-size: 1.2em;
+  color: #ff3822;
+}
+
+.option-button {
+  display: inline-block;
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  font-size: 1.2em;
+  color: #333;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.option-button.correct {
+  background-color: #4caf50;
+  color: white;
+}
+
+.option-button.incorrect {
+  background-color: #f44336;
+  color: white;
+}
+
+.option-button:disabled {
+  cursor: not-allowed;
+}
+
+.hint-button, .retake-button, .previous-button, .skip-button {
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.hint-button {
+  background-color: #007bff;
+}
+
+.retake-button {
+  background-color: #4caf50;
+}
+
+.previous-button, .skip-button {
+  background-color: #ccc;
+  color: #333;
+}
+
+.hint {
+  font-size: 1.2em;
+  color: #555;
+  margin-top: 10px;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+body {
+    margin: 0;
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Hide any overflow */
+    background-color:lightskyblue; /* Apply the animation */
+}
+
+/* App.css */
+
+.hint {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+
+
+.explanation {
+  margin-top: 10px;
+  padding: 10px;
+  background-color:lightgreen;
+  border-left: 4px solid #007bff;
+  font-style: italic;
+}
+
+.calculator {
+  width: 150px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-top: 10px;
+}
+
+.display {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 5px;
+  padding: 5px;
+  background: #fff;
+  text-align: right;
+  font-size: 1.2em;
+  border: 1px solid #ddd;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
+
+button {
+  padding: 10px;
+  font-size: 1em;
+  cursor: pointer;
+}
