@@ -31,11 +31,6 @@ An interactive and feature-rich quiz application built using the MERN stack (Mon
   Prerequisites:
     -Node.js (version 16 or higher)
     -MongoDB (locally or hosted)
-
-# Steps:
-Clone the repository:
-    git clone https://github.com/your-username/quiz-app.git
-    cd quiz-app
     
 # Install dependencies:
    # Backend
